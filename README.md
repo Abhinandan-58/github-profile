@@ -8,12 +8,7 @@
 | **Infrastructure as Code**   | Terraform                                      | - |
 | **Server Templating**        | Docker                                         | - |
 | **CI/CD**                    | AWS CodePipeline, CodeBuild, CodeDeploy        | - |
-
-
-
-| **Databases**                | - DynamoDB, RDS                                | -(https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git) |
-
-
+| **Databases**                | - DynamoDB, RDS                                | - |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" /> </p>
 
