@@ -12,7 +12,7 @@
 |--------------------------|---------------------------------------------------|----------|
 | **Cloud**                | AWS                                               | - [Three Tier Architecture with Load Balancer](https://github.com/Abhinandan-58/Three-Tier-Architecture-with-Load-Balancer.git)<br>- [Application Load Balancer ALB Project](https://github.com/Abhinandan-58/Application-Load-Balancer-ALB-Project.git) |
 | **CI/CD**                | AWS CodePipeline, CodeBuild, CodeDeploy, Jenkins  | - [Jenkins Freestyle Project](https://github.com/Abhinandan-58/Jenkins-Freestyle-Project.git)<br>- [Nodejs App CICD Project](https://github.com/Abhinandan-58/Nodejs-App-CICD-Project.git)<br>- [Portfolio App deploy CICD](https://github.com/Abhinandan-58/Portfolio-App-deploy-CICD.git) |
-| **Programming Languages**| JavaScript, Python, C++                           | - [Student App Maven](https://github.com/Abhinandan-58/Student-app-Maven-project.git)<br>- [Python App](https://github.com/Abhinandan-58/python-app-.git) |
+| **Programming Languages**| Java<br> - JavaScript<br> - Python<br> -                            | - [Student App Maven](https://github.com/Abhinandan-58/Student-app-Maven-project.git)<br>- [Python App](https://github.com/Abhinandan-58/python-app-.git) |
 | **SCM**                  | GitHub, GitLab, CodeCommit, Mirroring             | - [GitLab-GitHub Mirroring](https://github.com/Abhinandan-58/Gitlab-Github-Mirroring-Project.git)<br>- [Github Profile](https://github.com/Abhinandan-58/Abhinandan-58.git) |
 | **Databases**            | DynamoDB, RDS                                     | - [Data Migration Using RDS](https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git) |
 
