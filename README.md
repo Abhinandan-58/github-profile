@@ -1,49 +1,53 @@
-<h1 align="center">Hi 👋, I'm Abhinandan</h1>
-<h3 align="center">A passionate Cloud & DevOps Enthusiast from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" /> </p>
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Skills/Tools</th>
+    <th>Projects</th>
+  </tr>
 
-| Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud**                    | AWS                                            | - [Three Tier Architecture with Load Balancer](https://github.com/Abhinandan-58/Three-Tier-Architecture-with-Load-Balancer.git)<br>- [Application Load Balancer ALB Project](https://github.com/Abhinandan-58/Application-Load-Balancer-ALB-Project.git)                                                                                                                                                             |
-| **CI/CD**            | - AWS CodePipeline, CodeBuild, CodeDeploy, jenkins .<br>                  | - [Jenkins Freestyle Projec](https://github.com/Abhinandan-58/Jenkins-Freestyle-Project.git)<br> - [Nodejs App CICD Project](https://github.com/Abhinandan-58/Nodejs-App-CICD-Project.git)<br> - [Portfolio App deploy CICD](https://github.com/Abhinandan-58/Portfolio-App-deploy-CICD.git)                                                                                                                                                                                                            |
-| **Programming Languages**    | - JavaScript<br>- Python<br>- C++              | - [Student app Maven](https://github.com/Abhinandan-58/Student-app-Maven-project.git)<br> -
-[Python app](https://github.com/Abhinandan-58/python-app-.git) 
-         |                                                                                                                                                                                                                                                                                                                                 |
-| **Programming Languages**    | - JavaScript<br>- Python<br>- C++              | - [solved leetcode problem on string](https://github.com/iamtruptimane/python-programs/tree/main/leetcode/string)<br>- [Solved Leetcode Problems on array](https://github.com/iamtruptimane/python-programs/tree/main/leetcode/array)<br>- [Python 100 days challange](https://github.com/iamtruptimane/python-programs/tree/main/leetcode)                                                                                                                            |
-| **Monitoring**               | CloudWatch                                     | - []()                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Scripting**                | - Bash/Shell<br>- Python                       | - [shell scripting](https://github.com/iamtruptimane/shell-scripting)<br>- []()                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **SCM**                      | GitHub, Gitlab, CodeCommit                     | - [Gitlab Profile](https://github.com/iamtruptimane)<br>- [AWS CodeCommit](https://github.com/iamtruptimane/CICD-with-AWS-code-services)                                                                                                                                                                                                                                                                                                                               |
-| **Configuration Management** | Ansible                                        | Starting on _january 2024_                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Databases**                | - DynamoDB, RDS                                | - [AWS DynamoDB](https://github.com/iamtruptimane/create-DynamoDB-table)<br>- [AWS RDS Multi-AZ](https://github.com/iamtruptimane/create-RDS-database)                                                                                                                                                                                                                                                                                                                 |
-|                              |
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>AWS</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Three-Tier-Architecture-with-Load-Balancer.git">Three Tier Architecture with Load Balancer</a><br>
+      - <a href="https://github.com/Abhinandan-58/Application-Load-Balancer-ALB-Project.git">Application Load Balancer Project</a>
+    </td>
+  </tr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" /> </p>
+  <tr>
+    <td><b>CI/CD</b></td>
+    <td>AWS CodePipeline, CodeBuild, CodeDeploy, Jenkins</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Jenkins-Freestyle-Project.git">Jenkins Freestyle Project</a><br>
+      - <a href="https://github.com/Abhinandan-58/Nodejs-App-CICD-Project.git">Nodejs App CICD Project</a><br>
+      - <a href="https://github.com/Abhinandan-58/Portfolio-App-deploy-CICD.git">Portfolio App Deploy CICD</a>
+    </td>
+  </tr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhinandan-patil12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-</p>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>JavaScript, Python, C++</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Student-app-Maven-project.git">Student App Maven</a><br>
+      - <a href="https://github.com/Abhinandan-58/python-app-.git">Python App</a>
+    </td>
+  </tr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinandan-58&show_icons=true&locale=en&layout=compact" alt="Abhinandan-58" /></p>
+  <tr>
+    <td><b>SCM</b></td>
+    <td>GitHub, GitLab, CodeCommit, Mirroring</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Gitlab-Github-Mirroring-Project.git">GitLab-GitHub Mirroring</a><br>
+      - <a href="https://github.com/Abhinandan-58/Abhinandan-58.git">GitHub Profile</a>
+    </td>
+  </tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinandan-58&show_icons=true&locale=en" alt="Abhinandan-58" /></p>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>DynamoDB, RDS</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git">Data Migration Using RDS</a>
+    </td>
+  </tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinandan-58&" alt="Abhinandan-58" /></p>
+</table>
