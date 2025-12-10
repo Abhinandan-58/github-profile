@@ -32,6 +32,8 @@
     <td>Terraform</td>
     <td>
       - <a href="https://github.com/Abhinandan-58/Static-Website-using-Terraform-Jenkins.git">Static-Website-using-Terraform-Jenkins 
+      - <a href="https://github.com/Abhinandan-58/Automate-AWS-Resource-Tagging.git">Automate-AWS-Resource-Tagging
+      - <a href="https://github.com/Abhinandan-58/Terraform-For-AWS.git">Terraform-For-AWS
     </td>
   </tr>
 
