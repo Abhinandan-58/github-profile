@@ -9,20 +9,67 @@
 
 <div style="font-size: 18px;">
 
-| <b>Domain</b>                 | <b>Skills/Tools</b>                                   | <b>Projects</b> |
-|------------------------------|--------------------------------------------------------|-----------------|
-| <b>Cloud</b>                 | AWS                                                    | - <a href="https://github.com/Abhinandan-58/Three-Tier-Architecture-with-Load-Balancer.git">Three Tier Architecture with Load Balancer</a><br>- <a href="https://github.com/Abhinandan-58/Cross-Region-VPC-Peering.git">Cross-Region VPC Peering</a>- <a href="https://github.com/Abhinandan-58/Serverless-Web-App-using-Aws-Lambda-S3-DynamoDB.git">Serverless-Web-App-using-Aws-Lambda-S3-DynamoDB</a>
-<a href="https://github.com/Abhinandan-58/Application-Load-Balancer-ALB-Project.git">Application Load Balancer ALB Project</a> |
-| <b>CI/CD</b>                 | AWS CodePipeline, CodeBuild, CodeDeploy, Jenkins       | - <a href="https://github.com/Abhinandan-58/Jenkins-Freestyle-Project.git">Jenkins Freestyle Project</a><br>- <a href="https://github.com/Abhinandan-58/Nodejs-App-CICD-Project.git">Nodejs App CICD Project</a><br>- <a href="https://github.com/Abhinandan-58/Portfolio-App-deploy-CICD.git">Portfolio App deploy CICD</a> |
-| <b>Programming Languages</b> | Java, JavaScript, Python                               | - <a href="https://github.com/Abhinandan-58/Student-app-Maven-project.git">Student App Maven</a><br>- <a href="https://github.com/Abhinandan-58/python-app-.git">Python App</a> |
-| <b>SCM</b>                   | GitHub, GitLab, CodeCommit, Mirroring                  | - <a href="https://github.com/Abhinandan-58/Gitlab-Github-Mirroring-Project.git">GitLab-GitHub Mirroring</a><br>- <a href="https://github.com/Abhinandan-58/Abhinandan-58.git">Github Profile</a> |
-| <b>Databases</b>             | DynamoDB, RDS                                           | - <a href="https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git">Data Migration Using RDS</a> |
+<table>
+  <tr>
+    <th><b>Domain</b></th>
+    <th><b>Skills/Tools</b></th>
+    <th><b>Projects</b></th>
+  </tr>
+
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>AWS</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Three-Tier-Architecture-with-Load-Balancer.git">Three Tier Architecture with Load Balancer</a><br>
+      - <a href="https://github.com/Abhinandan-58/Cross-Region-VPC-Peering.git">Cross-Region VPC Peering</a><br>
+      - <a href="https://github.com/Abhinandan-58/Serverless-Web-App-using-Aws-Lambda-S3-DynamoDB.git">Serverless Web App using Lambda, S3, DynamoDB</a><br>
+      - <a href="https://github.com/Abhinandan-58/Application-Load-Balancer-ALB-Project.git">Application Load Balancer ALB Project</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>CI/CD</b></td>
+    <td>AWS CodePipeline, CodeBuild, CodeDeploy, Jenkins</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Jenkins-Freestyle-Project.git">Jenkins Freestyle Project</a><br>
+      - <a href="httpsgithub.com/Abhinandan-58/Nodejs-App-CICD-Project.git">Nodejs App CICD Project</a><br>
+      - <a href="https://github.com/Abhinandan-58/Portfolio-App-deploy-CICD.git">Portfolio App deploy CICD</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>Java, JavaScript, Python</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Student-app-Maven-project.git">Student App Maven</a><br>
+      - <a href="https://github.com/Abhinandan-58/python-app-.git">Python App</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>SCM</b></td>
+    <td>GitHub, GitLab, CodeCommit, Mirroring</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Gitlab-Github-Mirroring-Project.git">GitLab-GitHub Mirroring</a><br>
+      - <a href="httpsgithub.com/Abhinandan-58/Abhinandan-58.git">Github Profile</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>DynamoDB, RDS</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git">Data Migration Using RDS</a>
+    </td>
+  </tr>
+
+</table>
 
 </div>
 
 ---
 
-<p align="left" style="font-size: 18px;">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" />
 </p>
 
@@ -30,9 +77,9 @@
 
 ## <span style="font-size: 28px;">🔗 Connect with me</span>
 
-<p style="font-size: 18px;">
-  <a href="https://www.linkedin.com/in/abhinandan-patil12/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
+<p>
+  <a href="https://www.linkedin.com/in/abhinandan-patil12/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
   </a>
 </p>
 
@@ -40,7 +87,7 @@
 
 ## <span style="font-size: 28px;">🛠️ Languages and Tools</span>
 
-<p align="left" style="font-size: 18px;">
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
   </a>
@@ -63,13 +110,13 @@
 ## <span style="font-size: 28px;">📊 GitHub Stats</span>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinandan-58&show_icons=true&locale=en&layout=compact" alt="Abhinandan-58" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinandan-58&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinandan-58&show_icons=true&locale=en" alt="Abhinandan-58" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinandan-58&show_icons=true&locale=en" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinandan-58" alt="Abhinandan-58" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinandan-58" />
 </p>
